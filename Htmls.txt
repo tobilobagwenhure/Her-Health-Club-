@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phenomenal Woman: Her Health Club</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="logo">Phenomenal Woman</div>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">About Us</a>
+            <a href="#">Stories</a>
+            <a href="#">Health Hub</a>
+            <a href="#">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <h1>Empowering Women Through Stories and Healthcare</h1>
+        <p>Tackling ethnic inequalities in healthcare through storytelling and resources.</p>
+        <div class="cta-buttons">
+            <a href="#" class="btn">Discover Stories</a>
+            <a href="#" class="btn">Health Support</a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about">
+        <h2>Who We Are</h2>
+        <p>Our mission: Empowering women through stories & accessible healthcare.</p>
+    </section>
+
+    <!-- Storytelling Section -->
+    <section class="stories">
+        <h2>Educating Through Stories</h2>
+        <p>Explore real stories and interviews about health and wellbeing.</p>
+        <div class="story-cards">
+            <div class="card">Story 1</div>
+            <div class="card">Story 2</div>
+            <div class="card">Story 3</div>
+        </div>
+    </section>
+
+    <!-- Health Hub Section -->
+    <section class="health-hub">
+        <h2>Your Source for Vital Healthcare Information</h2>
+        <p>Free check-ins, personalized plans, and trusted resources.</p>
+        <a href="#" class="btn large">Book Your Free Check-In</a>
+    </section>
+
+    <!-- Inequalities Section -->
+    <section class="inequalities">
+        <h2>Fighting for Equity in Healthcare</h2>
+        <p>Addressing healthcare disparities with education & support.</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <nav>
+            <a href="#">About Us</a> | 
+            <a href="#">Contact</a> | 
+            <a href="#">Privacy Policy</a> | 
+            <a href="#">Terms of Use</a>
+        </nav>
+        <p>Stay Connected: Sign up for updates and stories.</p>
+        <a href="#" class="btn">Sign Up</a>
+    </footer>
+</body>
+</html>
